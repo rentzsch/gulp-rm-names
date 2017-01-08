@@ -1,0 +1,12 @@
+{
+  "name": "gulp-rm-names",
+  "version": "1.0.0",
+  "description": "gulp plugin to rm -rf names in a given dir",
+  "main": "gulp-rm-names.js",
+  "repository": "git@github.com:rentzsch/gulp-rm-names.git",
+  "author": "rentzsch <jwr.git@redshed.net>",
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^2.5.4"
+  }
+}
